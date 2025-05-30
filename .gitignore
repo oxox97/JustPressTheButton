@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# 가상환경
+.venv/
+env/
+venv/
+
+# 환경변수 파일
+.env
+.streamlit/secrets.toml
+
+# 시스템
+.DS_Store
+Thumbs.db
+
+# VS Code 설정
+.vscode/
